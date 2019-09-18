@@ -3841,28 +3841,6 @@
 		}
 		
 		
-		
-		
-.buton {
-	position: fixed;
-	top: 92%;
-	font: inherit;
-	left: 92%;
-	-webkit-transform: translateY(-50%);
-	-ms-transform: translateY(-50%);
-	transform: translateY(-50%);
-	background-color: #00e6e9;
-	border: none;
-	color: #ffffff;
-	font-weight: bold;
-	padding: 30px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	margin: 4px 2px;
-	border-radius: 75%;
-}
 
 
 
